@@ -1,1 +1,1 @@
-# odin-recipes
+Beginning my long term career with first project named "Odin Recipes". It learned me basic skills in HTMLv5 and improved my Git workflow :)
